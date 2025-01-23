@@ -1,0 +1,47 @@
+- directory: /home/mzums/programming/file_system_analyzer
+  total_size: 31383
+  file_count: 8
+  files:
+  - name: LICENSE
+    size: 1062
+    folder: LICENSE
+  - name: main.rs
+    size: 5160
+    folder: src/main.rs
+  - name: Cargo.toml
+    size: 319
+    folder: Cargo.toml
+  - name: Cargo.lock
+    size: 20515
+    folder: Cargo.lock
+  - name: wynik.yaml
+    size: 998
+    folder: wynik.yaml
+  - name: README.md
+    size: 2323
+    folder: README.md
+  - name: .gitignore
+    size: 8
+    folder: .gitignore
+  - name: result.yaml
+    size: 998
+    folder: result.yaml
+  subdirectories:
+  - directory: /home/mzums/programming/file_system_analyzer/target
+    total_size: 0
+    file_count: 0
+    files: []
+    subdirectories: [] //also skipped
+  - directory: /home/mzums/programming/file_system_analyzer/src
+    total_size: 5160
+    file_count: 1
+    files:
+    - name: main.rs
+      size: 5160
+      folder: src/main.rs
+    subdirectories: []
+  - directory: /home/mzums/programming/file_system_analyzer/.git
+    total_size: 0
+    file_count: 0
+    files: []
+    subdirectories: [] //skipped
